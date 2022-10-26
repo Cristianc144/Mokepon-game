@@ -1,2 +1,5 @@
 # Mokepon-game
-This game is created with so much love to entertain the people
+This basic game is similar to Pokemon where there are three characters with differents skills, in which are called as following:
+-Hipodoge
+-Capipepo
+-Ratigueya
